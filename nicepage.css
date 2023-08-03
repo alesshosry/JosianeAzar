@@ -18135,10 +18135,10 @@ img.u-opacity-0,
   margin-left: 0.8em;
 }
 .u-social-icons {
-  display: flex;
+  display: block;
 }
 .u-social-url {
-  color: inherit;
+  /* color: inherit; */
   font-size: inherit;
   font-family: inherit;
   line-height: inherit;
@@ -18161,7 +18161,7 @@ img.u-opacity-0,
 }
 .u-social-icons .u-social-url,
 .u-social-icons .u-social-url:hover {
-  color: currentColor;
+  /* color: currentColor; */
 }
 .u-social-icons a {
   height: 100%;
